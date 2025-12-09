@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8856239140267900168
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 653767090087885011, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: chunkType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 653767090087885011, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: obstacleArray.Array.size
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 653767090087885011, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: 'obstacleArray.Array.data[8]'
+      value: 
+      objectReference: {fileID: 6921359772638646282, guid: c332193dd32b1654784140838f5abb23, type: 3}
+    - target: {fileID: 653767090087885011, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: 'obstacleArray.Array.data[9]'
+      value: 
+      objectReference: {fileID: 64865638740111920, guid: 7d42a02e2f5b0fa4bbe28d16c13ab24f, type: 3}
+    - target: {fileID: 653767090087885011, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: 'obstacleArray.Array.data[10]'
+      value: 
+      objectReference: {fileID: 4633475965576950297, guid: 264ec4330e5ecfe4fa575b1a567ffeb0, type: 3}
+    - target: {fileID: 653767090087885011, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: 'obstacleArray.Array.data[11]'
+      value: 
+      objectReference: {fileID: 8104263902254103633, guid: 963a894515a12374abbb8d902bfbfe23, type: 3}
+    - target: {fileID: 653767090087885011, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: 'obstacleArray.Array.data[12]'
+      value: 
+      objectReference: {fileID: 6424962945683678096, guid: 44bd9c7c8dac10041a9fc5adad9a45e6, type: 3}
+    - target: {fileID: 2837652025819859703, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: m_Name
+      value: Chunk_Petshop
+      objectReference: {fileID: 0}
+    - target: {fileID: 4145810693099466444, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4145810693099466444, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4145810693099466444, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4145810693099466444, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4145810693099466444, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4145810693099466444, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4145810693099466444, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4145810693099466444, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4145810693099466444, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4145810693099466444, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5503233547461447695, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d23c81d980567f2409a21c128320e29a, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8467ec6de51ab2b42bd48163dda73b78, type: 3}
